@@ -1,3 +1,0 @@
-D:/cpp-simple-calculator/cmake-build-debug/CMakeFiles/cpp_simple_calculator.dir
-D:/cpp-simple-calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cpp-simple-calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
